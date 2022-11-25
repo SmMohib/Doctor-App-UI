@@ -20,9 +20,9 @@ To deploy this project run
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/61247278/202502812-a8cd01b1-9288-4cf7-bc87-cc3c637d3d91.jpg)
-![2](https://user-images.githubusercontent.com/61247278/202502826-cfba03ab-0a08-48fa-8998-e6ec790eb39e.jpg)
-![3](https://user-images.githubusercontent.com/61247278/202502831-4c25cc6b-37b8-4509-92e6-7ea36d7a7de6.jpg)
+![1](https://user-images.githubusercontent.com/61247278/202502812-a8cd01b1-9288-4cf7-bc87-cc3c637d3d91.jpg) ![2](https://user-images.githubusercontent.com/61247278/202502826-cfba03ab-0a08-48fa-8998-e6ec790eb39e.jpg) ![3](https://user-images.githubusercontent.com/61247278/202502831-4c25cc6b-37b8-4509-92e6-7ea36d7a7de6.jpg)
+
+
 ![4](https://user-images.githubusercontent.com/61247278/202502835-44245738-44d4-4a33-840a-b812402079b9.jpg)
 ![5](https://user-images.githubusercontent.com/61247278/202502839-cd2f5c71-9206-4c2d-934b-a3d631deb8d5.jpg)
 ![6](https://user-images.githubusercontent.com/61247278/202502842-f975b249-4296-4216-a86e-a248989d311b.jpg)
